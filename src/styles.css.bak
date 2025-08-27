@@ -1,0 +1,18 @@
+:root {
+  --my-neon-green: #2CFF05;
+  --my-neon-green-dark: #39FF14;
+  --my-dark-bg: #000;
+  --my-block-bg: #1a1a1a;
+  --my-gray-color: #555;
+  --my-dark-gray-color: #111111;
+  --my-alpha-gray-color: rgba(255,255,255,0.1);
+  --my-alpha-dark-gray-color: rgba(0,0,0,0.4);
+  --my-heading-color: #00FF99;
+  --my-heading-second-color: #EEECE5;
+  --my-content-color: #f4f6f8;
+  --my-border-alpha: rgba(0,255,153,0.12);
+  --my-shadow: rgba(0,0,0,0.6);
+  --my-dropdown-bg: #121212;
+  --my-dropdown-link-hover-bg: #1c1c1c;
+  --my-modal-bg: rgba(0,0,0,0.6);
+}
